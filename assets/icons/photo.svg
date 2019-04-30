@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>photo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M26,24 L6,24 C4.897,24 4,23.103 4,22 L4,19.278 L9.334,15.193 C9.698,14.915 10.172,14.94 10.513,15.252 L15.229,19.586 C16.223,20.5 17.648,20.629 18.777,19.901 L21.417,18.204 C21.747,17.991 22.146,18.01 22.459,18.251 L27.944,22.451 C27.738,23.337 26.947,24 26,24 M23,10 C24.105,10 25,10.895 25,12 C25,13.105 24.105,14 23,14 C21.895,14 21,13.105 21,12 C21,10.895 21.895,10 23,10 M26,6 L6,6 C3.791,6 2,7.791 2,10 L2,22 C2,24.209 3.791,26 6,26 L26,26 C28.209,26 30,24.209 30,22 L30,10 C30,7.791 28.209,6 26,6" id="Mask" fill="#000000"></path>
+    </g>
+</svg>

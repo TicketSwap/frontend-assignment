@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>loading-indicator</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M27,16 C27,22.0751429 22.0751429,27 16,27 C9.92485714,27 5,22.0751429 5,16 C5,9.92485714 9.92485714,5 16,5 C22.0751429,5 27,9.92485714 27,16 Z" id="Stroke-1" stroke="#000000" stroke-width="4" opacity="0.399999976"></path>
+        <path d="M15.99945,5 C18.8146643,5 21.6298786,6.07407143 23.7780214,8.22221429" id="Stroke-3" stroke="#000000" stroke-width="4"></path>
+    </g>
+</svg>
